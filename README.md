@@ -1,2 +1,1 @@
-# amoyindo
-amoyindo
+# [amoyindo](https://amoyindo.pages.dev)
