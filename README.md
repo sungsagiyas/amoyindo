@@ -1,1 +1,2 @@
-# [amoyindo](https://amoyindo.pages.dev)
+
+[amoyindo](https://amoyindo.pages.dev)
